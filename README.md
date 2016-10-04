@@ -1,1 +1,1 @@
-*My first commit!* _emphasize_
+*My first commit!*
